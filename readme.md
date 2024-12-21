@@ -8,6 +8,9 @@ This project gamifies problem-solving by allowing participants to showcase their
 
 ## Contract Address
 0x736b9f900F3ad1Ce702CD13cad8E9D13e09E33fC
+![image](https://github.com/user-attachments/assets/c082c2a4-4476-4ec8-8c89-51c4f120aa65)
+
+
 
 ## Project Vision
 Our vision is to create a decentralized and transparent ecosystem that motivates individuals and teams to tackle real-world challenges. By associating challenges with NFTs, we aim to provide a system of recognition and reward that immortalizes intellectual milestones in a digital, immutable format.
